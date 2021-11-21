@@ -3,4 +3,4 @@ This project was built in an attempt to learn Selenium and make an automatic Mee
 
 Note:
 - This bot uses Selenium 4 beta, which is the version supported by EdgeOptions.
-- This bot also works with only Edge. 
+- This bot works only with Edge. 
